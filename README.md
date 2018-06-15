@@ -1,2 +1,2 @@
 # top-esports-tournaments
-Data visuzlization of top esports tournaments
+Dataviz of top esports tournaments
