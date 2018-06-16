@@ -1,0 +1,761 @@
+[
+  {
+    "order": 1,
+    "country": "China",
+    "prize": 74094056,
+    "tournaments": 43596603,
+    "players": 2898
+  },
+  {
+    "order": 2,
+    "country": "USA",
+    "prize": 70546024,
+    "tournaments": 153063141,
+    "players": 10278
+  },
+  {
+    "order": 3,
+    "country": "South Korea",
+    "prize": 61501535,
+    "tournaments": 13440008,
+    "players": 2841
+  },
+  {
+    "order": 4,
+    "country": "Sweden",
+    "prize": 26046304,
+    "tournaments": 4349183,
+    "players": 2026
+  },
+  {
+    "order": 5,
+    "country": "Denmark",
+    "prize": 16149328,
+    "tournaments": 1224820,
+    "players": 1070
+  },
+  {
+    "order": 6,
+    "country": "Germany",
+    "prize": 14969102,
+    "tournaments": 13390693,
+    "players": 2666
+  },
+  {
+    "order": 7,
+    "country": "Russia",
+    "prize": 14826906,
+    "tournaments": 3870000,
+    "players": 2105
+  },
+  {
+    "order": 8,
+    "country": "Canada",
+    "prize": 14293887,
+    "tournaments": 1360490,
+    "players": 1706
+  },
+  {
+    "order": 9,
+    "country": "Ukraine",
+    "prize": 11810534,
+    "tournaments": 5256920,
+    "players": 486
+  },
+  {
+    "order": 10,
+    "country": "France",
+    "prize": 11312467,
+    "tournaments": 2386711,
+    "players": 2332
+  },
+  {
+    "order": 11,
+    "country": "Brazil",
+    "prize": 9169076,
+    "tournaments": 2437000,
+    "players": 1473
+  },
+  {
+    "order": 12,
+    "country": "United Kingdom",
+    "prize": 9056243,
+    "tournaments": 5491130,
+    "players": 2082
+  },
+  {
+    "order": 13,
+    "country": "Poland",
+    "prize": 8157922,
+    "tournaments": 6461494,
+    "players": 1284
+  },
+  {
+    "order": 14,
+    "country": "Finland",
+    "prize": 7664270,
+    "players": 1120
+  },
+  {
+    "order": 15,
+    "country": "Malaysia",
+    "prize": 5826254,
+    "tournaments": 1270000,
+    "players": 422
+  },
+  {
+    "order": 16,
+    "country": "Australia",
+    "prize": 5614407,
+    "players": 1228
+  },
+  {
+    "order": 17,
+    "country": "Taiwan",
+    "prize": 5545942,
+    "tournaments": 1096765,
+    "players": 497
+  },
+  {
+    "order": 18,
+    "country": "Philippines",
+    "prize": 4427987,
+    "tournaments": 4000000,
+    "players": 358
+  },
+  {
+    "order": 19,
+    "country": "Bulgaria",
+    "prize": 3997247,
+    "players": 236
+  },
+  {
+    "order": 20,
+    "country": "Netherlands",
+    "prize": 3872682,
+    "tournaments": 1627000,
+    "players": 692
+  },
+  {
+    "order": 21,
+    "country": "Jordan",
+    "prize": 3856033,
+    "players": 38
+  },
+  {
+    "order": 22,
+    "country": "Singapore",
+    "prize": 2849172,
+    "tournaments": 812183,
+    "players": 427
+  },
+  {
+    "order": 23,
+    "country": "Pakistan",
+    "prize": 2797127,
+    "players": 12
+  },
+  {
+    "order": 24,
+    "country": "Lebanon",
+    "prize": 2748389,
+    "players": 40
+  },
+  {
+    "order": 25,
+    "country": "Norway",
+    "prize": 2715648,
+    "players": 593
+  },
+  {
+    "order": 26,
+    "country": "Spain",
+    "prize": 2488101,
+    "tournaments": 150000,
+    "players": 793
+  },
+  {
+    "order": 27,
+    "country": "Japan",
+    "prize": 2428013,
+    "players": 625
+  },
+  {
+    "order": 28,
+    "country": "Estonia",
+    "prize": 2281061,
+    "players": 155
+  },
+  {
+    "order": 29,
+    "country": "Romania",
+    "prize": 2248829,
+    "tournaments": 1700000,
+    "players": 245
+  },
+  {
+    "order": 30,
+    "country": "Israel",
+    "prize": 1687686,
+    "players": 118
+  },
+  {
+    "order": 31,
+    "country": "Turkey",
+    "prize": 1517309,
+    "players": 283
+  },
+  {
+    "order": 32,
+    "country": "Vietnam",
+    "prize": 1473830,
+    "players": 470
+  },
+  {
+    "order": 33,
+    "country": "Thailand",
+    "prize": 1407283,
+    "tournaments": 1545830,
+    "players": 391
+  },
+  {
+    "order": 34,
+    "country": "Macau",
+    "prize": 1314003,
+    "tournaments": 300000,
+    "players": 3
+  },
+  {
+    "order": 35,
+    "country": "Belarus",
+    "prize": 1291253,
+    "tournaments": 502286,
+    "players": 146
+  },
+  {
+    "order": 36,
+    "country": "Kazakhstan",
+    "prize": 1283004,
+    "players": 405
+  },
+  {
+    "order": 37,
+    "country": "Mexico",
+    "prize": 1258806,
+    "tournaments": 860000,
+    "players": 230
+  },
+  {
+    "order": 38,
+    "country": "Slovakia",
+    "prize": 1224474,
+    "players": 146
+  },
+  {
+    "order": 39,
+    "country": "Greece",
+    "prize": 1163304,
+    "tournaments": 240744,
+    "players": 257
+  },
+  {
+    "order": 40,
+    "country": "Italy",
+    "prize": 1162603,
+    "players": 362
+  },
+  {
+    "order": 41,
+    "country": "Belgium",
+    "prize": 1094363,
+    "players": 332
+  },
+  {
+    "order": 42,
+    "country": "Hong Kong",
+    "prize": 1081700,
+    "players": 210
+  },
+  {
+    "order": 43,
+    "country": "Czech Republic",
+    "prize": 1024405,
+    "players": 389
+  },
+  {
+    "order": 44,
+    "country": "Macedonia",
+    "prize": 864200,
+    "players": 14
+  },
+  {
+    "order": 45,
+    "country": "Peru",
+    "prize": 787672,
+    "players": 151
+  },
+  {
+    "order": 46,
+    "country": "Argentina",
+    "prize": 632103,
+    "players": 327
+  },
+  {
+    "order": 47,
+    "country": "Bosnia and Herzegovina",
+    "prize": 603142,
+    "players": 26
+  },
+  {
+    "order": 48,
+    "country": "Chile",
+    "prize": 585105,
+    "players": 258
+  },
+  {
+    "order": 49,
+    "country": "Portugal",
+    "prize": 573362,
+    "players": 377
+  },
+  {
+    "order": 50,
+    "country": "Austria",
+    "prize": 566156,
+    "tournaments": 600000,
+    "players": 310
+  },
+  {
+    "order": 51,
+    "country": "South Africa",
+    "prize": 564394,
+    "players": 343
+  },
+  {
+    "order": 52,
+    "country": "Croatia",
+    "prize": 490112,
+    "tournaments": 634673,
+    "players": 121
+  },
+  {
+    "order": 53,
+    "country": "Indonesia",
+    "prize": 482503,
+    "tournaments": 300000,
+    "players": 230
+  },
+  {
+    "order": 54,
+    "country": "New Zealand",
+    "prize": 478580,
+    "players": 146
+  },
+  {
+    "order": 55,
+    "country": "Hungary",
+    "prize": 465135,
+    "tournaments": 1235740,
+    "players": 255
+  },
+  {
+    "order": 56,
+    "country": "Saudi Arabia",
+    "prize": 430360,
+    "tournaments": 236250,
+    "players": 36
+  },
+  {
+    "order": 57,
+    "country": "Serbia",
+    "prize": 403568,
+    "players": 157
+  },
+  {
+    "order": 58,
+    "country": "Lithuania",
+    "prize": 365184,
+    "tournaments": 200000,
+    "players": 189
+  },
+  {
+    "order": 59,
+    "country": "Ireland",
+    "prize": 316853,
+    "players": 82
+  },
+  {
+    "order": 60,
+    "country": "Dominican Republic",
+    "prize": 260442,
+    "players": 9
+  },
+  {
+    "order": 61,
+    "country": "Switzerland",
+    "prize": 237022,
+    "players": 175
+  },
+  {
+    "order": 62,
+    "country": "Slovenia",
+    "prize": 211910,
+    "players": 50
+  },
+  {
+    "order": 63,
+    "country": "Colombia",
+    "prize": 181419,
+    "players": 75
+  },
+  {
+    "order": 64,
+    "country": "Latvia",
+    "prize": 176027,
+    "players": 137
+  },
+  {
+    "order": 65,
+    "country": "Mongolia",
+    "prize": 162463,
+    "players": 46
+  },
+  {
+    "order": 66,
+    "country": "India",
+    "prize": 152982,
+    "players": 261
+  },
+  {
+    "order": 67,
+    "country": "Armenia",
+    "prize": 134321,
+    "players": 6
+  },
+  {
+    "order": 68,
+    "country": "Puerto Rico",
+    "prize": 133648,
+    "players": 25
+  },
+  {
+    "order": 69,
+    "country": "Venezuela",
+    "prize": 103162,
+    "players": 69
+  },
+  {
+    "order": 70,
+    "country": "United Arab Emirates",
+    "prize": 88344,
+    "tournaments": 250000,
+    "players": 57
+  },
+  {
+    "order": 71,
+    "country": "Moldova",
+    "prize": 75485,
+    "players": 12
+  },
+  {
+    "order": 72,
+    "country": "Kyrgyzstan",
+    "prize": 72414,
+    "players": 38
+  },
+  {
+    "order": 73,
+    "country": "Uruguay",
+    "prize": 60312,
+    "players": 27
+  },
+  {
+    "order": 74,
+    "country": "Iceland",
+    "prize": 59266,
+    "players": 79
+  },
+  {
+    "order": 75,
+    "country": "Iraq",
+    "prize": 56808,
+    "players": 18
+  },
+  {
+    "order": 76,
+    "country": "Morocco",
+    "prize": 54110,
+    "players": 25
+  },
+  {
+    "order": 77,
+    "country": "Algeria",
+    "prize": 51125,
+    "players": 25
+  },
+  {
+    "order": 78,
+    "country": "Malta",
+    "prize": 48220,
+    "players": 146
+  },
+  {
+    "order": 79,
+    "country": "Montenegro",
+    "prize": 46203,
+    "players": 9
+  },
+  {
+    "order": 80,
+    "country": "Bahrain",
+    "prize": 43360,
+    "players": 4
+  },
+  {
+    "order": 81,
+    "country": "Egypt",
+    "prize": 36940,
+    "players": 25
+  },
+  {
+    "order": 82,
+    "country": "Kuwait",
+    "prize": 23663,
+    "players": 29
+  },
+  {
+    "order": 83,
+    "country": "Bolivia",
+    "prize": 21089,
+    "players": 4
+  },
+  {
+    "order": 84,
+    "country": "Azerbaijan",
+    "prize": 19715,
+    "players": 22
+  },
+  {
+    "order": 85,
+    "country": "Iran",
+    "prize": 18556,
+    "players": 42
+  },
+  {
+    "order": 86,
+    "country": "Nicaragua",
+    "prize": 18254,
+    "players": 1
+  },
+  {
+    "order": 87,
+    "country": "Tunisia",
+    "prize": 17327,
+    "players": 20
+  },
+  {
+    "order": 89,
+    "country": "Ecuador",
+    "prize": 14979,
+    "players": 12
+  },
+  {
+    "order": 90,
+    "country": "Sri Lanka",
+    "prize": 14674,
+    "players": 17
+  },
+  {
+    "order": 92,
+    "country": "Cambodia",
+    "prize": 8922,
+    "players": 9
+  },
+  {
+    "order": 93,
+    "country": "Albania",
+    "prize": 8200,
+    "players": 7
+  },
+  {
+    "order": 94,
+    "country": "Panama",
+    "prize": 8195,
+    "players": 8
+  },
+  {
+    "order": 95,
+    "country": "Georgia",
+    "prize": 7937,
+    "players": 33
+  },
+  {
+    "order": 96,
+    "country": "Uzbekistan",
+    "prize": 7233,
+    "players": 13
+  },
+  {
+    "order": 97,
+    "country": "Luxembourg",
+    "prize": 7011,
+    "players": 8
+  },
+  {
+    "order": 98,
+    "country": "Afghanistan",
+    "prize": 6759,
+    "players": 2
+  },
+  {
+    "order": 99,
+    "country": "El Salvador",
+    "prize": 6066,
+    "players": 7
+  },
+  {
+    "order": 100,
+    "country": "Guatemala",
+    "prize": 5359,
+    "players": 10
+  },
+  {
+    "order": 101,
+    "country": "Syrian Arab Republic",
+    "prize": 5127,
+    "players": 8
+  },
+  {
+    "order": 102,
+    "country": "Mauritius",
+    "prize": 5011,
+    "players": 1
+  },
+  {
+    "order": 103,
+    "country": "Cameroon",
+    "prize": 4922,
+    "players": 1
+  },
+  {
+    "order": 104,
+    "country": "Costa Rica",
+    "prize": 4167,
+    "players": 6
+  },
+  {
+    "order": 105,
+    "country": "Åland Islands",
+    "prize": 2987,
+    "players": 16
+  },
+  {
+    "order": 106,
+    "country": "Ethiopia",
+    "prize": 2640,
+    "players": 1
+  },
+  {
+    "order": 107,
+    "country": "Bangladesh",
+    "prize": 2417,
+    "players": 14
+  },
+  {
+    "order": 108,
+    "country": "Kosovo, Republic of",
+    "prize": 1655,
+    "players": 1
+  },
+  {
+    "order": 109,
+    "country": "Kenya",
+    "prize": 1483,
+    "players": 1
+  },
+  {
+    "order": 110,
+    "country": "Cuba",
+    "prize": 1468,
+    "players": 3
+  },
+  {
+    "order": 111,
+    "country": "Nepal",
+    "prize": 1111,
+    "players": 10
+  },
+  {
+    "order": 112,
+    "country": "Paraguay",
+    "prize": 621,
+    "players": 2
+  },
+  {
+    "order": 113,
+    "country": "Brunei Darussalam",
+    "prize": 588,
+    "players": 5
+  },
+  {
+    "order": 114,
+    "country": "Lao People's Democratic Republic",
+    "prize": 478,
+    "players": 1
+  },
+  {
+    "order": 115,
+    "country": "Madagascar",
+    "prize": 458,
+    "players": 1
+  },
+  {
+    "order": 116,
+    "country": "Faroe Islands",
+    "prize": 433,
+    "players": 9
+  },
+  {
+    "order": 117,
+    "country": "Northern Mariana Islands",
+    "prize": 300,
+    "players": 1
+  },
+  {
+    "order": 118,
+    "country": "Bahamas",
+    "prize": 263,
+    "tournaments": 250000,
+    "players": 1
+  },
+  {
+    "order": 119,
+    "country": "Cyprus",
+    "prize": 262,
+    "players": 3
+  },
+  {
+    "order": 120,
+    "country": "French Polynesia",
+    "prize": 246,
+    "players": 1
+  },
+  {
+    "order": 121,
+    "country": "Andorra",
+    "prize": 209,
+    "players": 2
+  },
+  {
+    "order": 122,
+    "country": "Trinidad and Tobago",
+    "prize": 137,
+    "players": 1
+  },
+  {
+    "order": 123,
+    "country": "Jamaica",
+    "prize": 113,
+    "players": 2
+  }
+]

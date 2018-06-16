@@ -1,0 +1,126 @@
+[
+  {
+	"game": "all",
+	"prize": 441085912,
+	"players": 26920
+  },
+  {
+    "order": 1,
+    "game": "Dota 2",
+    "prize": 143768443,
+    "players": 2528,
+    "tournaments": 931
+  },
+  {
+    "order": 2,
+    "game": "Counter-Strike: Global Offensive",
+    "prize": 55797122,
+    "players": 9855,
+    "tournaments": 3279
+  },
+  {
+    "order": 3,
+    "game": "League of Legends",
+    "prize": 53473248,
+    "players": 5512,
+    "tournaments": 2072
+  },
+  {
+    "order": 4,
+    "game": "StarCraft II",
+    "prize": 26689912,
+    "players": 1752,
+    "tournaments": 4846
+  },
+  {
+    "order": 5,
+    "game": "Heroes of the Storm",
+    "prize": 13521769,
+    "players": 1028,
+    "tournaments": 408
+  },
+  {
+    "order": 6,
+    "game": "Hearthstone",
+    "prize": 12195739,
+    "players": 1732,
+    "tournaments": 710
+  },
+  {
+    "order": 7,
+    "game": "Counter-Strike",
+    "prize": 10999079,
+    "players": 2633,
+    "tournaments": 589
+  },
+  {
+    "order": 8,
+    "game": "SMITE",
+    "prize": 8391112,
+    "players": 472,
+    "tournaments": 88
+  },
+  {
+    "order": 9,
+    "game": "StarCraft: Brood War",
+    "prize": 7591534,
+    "players": 623,
+    "tournaments": 508
+  },
+  {
+    "order": 10,
+    "game": "Overwatch",
+    "prize": 7007709,
+    "players": 2316,
+    "tournaments": 581
+  },
+  {
+    "order": 11,
+    "game": "Halo 5: Guardians",
+    "prize": 6386480,
+    "players": 224,
+    "tournaments": 72
+  },
+  {
+    "order": 12,
+    "game": "WarCraft III",
+    "prize": 5161631,
+    "players": 536,
+    "tournaments": 1247
+  },
+  {
+    "order": 13,
+    "game": "Call of Duty: Infinite Warfare",
+    "prize": 4151666,
+    "players": 314,
+    "tournaments": 75
+  },
+  {
+    "order": 14,
+    "game": "Call of Duty: Black Ops III",
+    "prize": 3836654,
+    "players": 390,
+    "tournaments": 74
+  },
+  {
+    "order": 15,
+    "game": "CrossFire",
+    "prize": 3824183,
+    "players": 543,
+    "tournaments": 284
+  },
+  {
+    "order": 16,
+    "game": "World of WarCraft",
+    "prize": 3767837,
+    "players": 318,
+    "tournaments": 87
+  },
+  {
+    "order": 17,
+    "game": "World of Tanks",
+    "prize": 3656496,
+    "players": 403,
+    "tournaments": 48
+  }
+]

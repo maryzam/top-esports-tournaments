@@ -1,0 +1,27 @@
+
+.overview-map {
+	fill: #dadada;
+	stroke: #fff;
+	stroke-width: 1px;
+}
+
+.overview-map .description {
+	width: 100%;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+
+.overview-map button {
+	color: #999;
+  	background: #fff;
+  	padding: 5px 10px;
+  	text-decoration: none;
+  	border: 1px solid #999;
+}
+
+.overview-map button:hover, button.active  {
+	color: #fff;
+	background: tomato;
+}
