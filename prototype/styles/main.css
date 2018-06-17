@@ -1,3 +1,16 @@
+* {
+	padding: 0;
+	margin: 0;
+}
+
+.description {
+	width: 100%;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	padding: 10px 0;
+}
 
 .overview-map {
 	fill: #dadada;
@@ -5,18 +18,11 @@
 	stroke-width: 1px;
 }
 
-.overview-map .description {
-	width: 100%;
-	display: flex;
-	flex-direction: column;
-	justify-content: center;
-	align-items: center;
-}
-
 .overview-map button {
 	color: #999;
   	background: #fff;
   	padding: 5px 10px;
+  	margin: 10px 5px;
   	text-decoration: none;
   	border: 1px solid #999;
 }
@@ -24,4 +30,34 @@
 .overview-map button:hover, button.active  {
 	color: #fff;
 	background: tomato;
+}
+
+/* section 2 : top-games-overview*/
+.top-games-overview .player {
+	fill: steelblue;
+	fill-opacity: 0.7;
+	stroke: steelblue;
+	stroke-width: 1px;
+}
+
+.top-games-overview .tournament {
+	fill: olivedrab;
+	fill-opacity: 0.7;
+	stroke: olivedrab;
+	stroke-width: 1px;
+}
+
+.top-games-overview .prize {
+	fill: tomato;
+	fill-opacity: 0.7;
+	stroke: tomato;
+	stroke-width: 1px;
+}
+
+.top-games-overview text {
+	text-anchor: middle;
+
+	font-family: Helvetica, arial;
+	font-weight: bold;
+	font-size: 10px;
 }

@@ -1,8 +1,8 @@
 [
   {
-	"game": "all",
-	"prize": 441085912,
-	"players": 26920
+  	"game": "all",
+  	"prize": 441085912,
+  	"players": 26920
   },
   {
     "order": 1,
@@ -122,5 +122,26 @@
     "prize": 3656496,
     "players": 403,
     "tournaments": 48
+  },
+  {
+    "order": 18,
+    "game": "Counter-Strike: Source",
+    "prize": 3020431,
+    "players": 1407,
+    "tournaments": 309
+  },
+  {
+    "order": 19,
+    "game": "PLAYERUNKNOWN’S BATTLEGROUNDS",
+    "prize": 2896461,
+    "players": 661,
+    "tournaments": 51
+  },
+  {
+    "order": 20,
+    "game": "Heroes of Newerth",
+    "prize": 2856206,
+    "players": 805,
+    "tournaments": 368
   }
 ]
