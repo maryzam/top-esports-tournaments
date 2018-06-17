@@ -69,3 +69,11 @@
 	stroke: #777;
 	stroke-width: 1px;
 }
+
+.top-games-by-years .year {
+	text-anchor: middle;
+
+	font-family: Helvetica, arial;
+	font-weight: bold;
+	font-size: 10px;
+}
