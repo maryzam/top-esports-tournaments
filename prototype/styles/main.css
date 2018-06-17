@@ -61,3 +61,11 @@
 	font-weight: bold;
 	font-size: 10px;
 }
+
+/* section 3 top-games-by-years*/
+
+.top-games-by-years .link {
+	fill: none;
+	stroke: #777;
+	stroke-width: 1px;
+}
