@@ -1,0 +1,207 @@
+[
+	{
+		"nickname": "KuroKy",
+		"name": "Kuro Takhasomi",
+		"country": "Germany",
+		"overall": 3740477,
+		"earnings": [
+			{
+				"age": 25,
+				"game": "Dota 2",
+				"money": 345300
+			},
+			{
+				"age": 24,
+				"game": "Dota 2",
+				"money": 2369772
+			},
+			{
+				"age": 23,
+				"game": "Dota 2",
+				"money": 376150
+			},
+			{
+				"age": 22,
+				"game": "Dota 2",
+				"money": 336520
+			},
+			{
+				"age": 21,
+				"game": "Dota 2",
+				"money": 167965
+			},
+			{
+				"age": 20,
+				"game": "Dota 2",
+				"money": 142947
+			},
+			{
+				"age": 19,
+				"game": "Dota 2",
+				"money": 1100
+			},
+			{
+				"age": 18,
+				"game": "Dota",
+				"money": 600
+			},
+			{
+				"age": 16,
+				"game": "Dota",
+				"money": 124
+			}
+		]
+	},
+	{
+		"nickname": "Miracle",
+		"name": "Amer Al-Barkawi",
+		"country": "Jordan",
+		"overall": 3313887,
+		"earnings": [
+			{
+				"age": 20,
+				"game": "Dota 2",
+				"money": 2559647
+			},
+			{
+				"age": 19,
+				"game": "Dota 2",
+				"money": 201894
+			},
+			{
+				"age": 18,
+				"game": "Dota 2",
+				"money": 551586
+			},
+			{
+				"age": 17,
+				"game": "Dota 2",
+				"money": 760
+			}
+		]
+	}, 
+	{
+		"nickname": "SumaiL",
+		"name": "Sumail Hassan",
+		"country": "Pakistan",
+		"overall": 2721739,
+		"earnings": [
+			{
+				"age": 19,
+				"game": "Dota 2",
+				"money": 54600
+			},
+			{
+				"age": 18,
+				"game": "Dota 2",
+				"money": 265607
+			},
+			{
+				"age": 17,
+				"game": "Dota 2",
+				"money": 648264
+			},
+			{
+				"age": 16,
+				"game": "Dota 2",
+				"money": 1494703
+			},
+			{
+				"age": 15,
+				"game": "Dota 2",
+				"money": 258564
+			}
+		]
+	},
+	{
+		"nickname": "MinD_ContRoL",
+		"name": "Ivan Ivanov",
+		"country": "Bulgaria",
+		"overall": 3080961,
+		"earnings": [
+			{
+				"age": 23,
+				"game": "Dota 2",
+				"money": 258700
+			},
+			{
+				"age": 22,
+				"game": "Dota 2",
+				"money": 2421272
+			},
+			{
+				"age": 21,
+				"game": "Dota 2",
+				"money": 356768
+			},
+			{
+				"age": 20,
+				"game": "Dota 2",
+				"money": 42766
+			},
+			{
+				"age": 19,
+				"game": "Dota 2",
+				"money": 1453
+			}
+		]
+	},
+	{
+		"nickname": "Fear",
+		"name": "Clinton Loomis",
+		"country": "United States",
+		"overall": 2497460,
+		"earnings": [
+			{
+				"age": 30,
+				"game": "Dota 2",
+				"money": 50100
+			},
+			{
+				"age": 29,
+				"game": "Dota 2",
+				"money": 64100
+			},
+			{
+				"age": 28,
+				"game": "Dota 2",
+				"money": 526094
+			},
+			{
+				"age": 27,
+				"game": "Dota 2",
+				"money": 1503394
+			},
+			{
+				"age": 26,
+				"game": "Dota 2",
+				"money": 335677
+			},
+			{
+				"age": 25,
+				"game": "Dota 2",
+				"money": 8651
+			},
+			{
+				"age": 24,
+				"game": "Dota 2",
+				"money": 3922
+			},
+			{
+				"age": 23,
+				"game": "Dota 2",
+				"money": 4324
+			},
+			{
+				"age": 22,
+				"game": "Dota",
+				"money": 60
+			},
+			{
+				"age": 20,
+				"game": "Dota",
+				"money": 1139
+			}
+		]
+	}
+]

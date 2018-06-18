@@ -27,9 +27,7 @@ d3.json("data/top-100-players.json")
 	  		}
 	  	});
 
-	  	const scaleColors = d3.scaleLinear()
-	  						.range(["tomato", "steelblue"])
-	  						.interpolate(d3.interpolateHcl)
+	  	const scaleColors = d3.scaleSequential(d3.interpolateWarm)
 	  						.domain([0, games.length]);
 
 	  	// add chart	
@@ -83,7 +81,5 @@ d3.json("data/top-100-players.json")
 			.text((d) => d)
 			.attr("dx", 10)
 			.attr("dy", 5)
-
-
 
 	});

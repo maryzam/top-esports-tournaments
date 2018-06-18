@@ -56,8 +56,6 @@ d3.json("data/top-games.json")
 				.attr("cx", playersPos.x)
 				.attr("cy", playersPos.y);
 
-
-
 		games
 			.append("circle")
 				.attr("class", "tournament")
