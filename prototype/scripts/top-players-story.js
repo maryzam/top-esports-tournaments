@@ -47,9 +47,17 @@ d3.json("data/top-players-story.json")
 				.attr("class", "player")
 				.attr("transform", (d) => `translate(0,${scalePlayers(d)})`);
 
-		playersAxis
+		const labels = playersAxis
 			.append("text")
-			.text((d) => d);
+
+		labels.append("tspan").text((d) => d);
+		labels.append("tspan")
+			.attr("x", 0)
+			.attr("y", 15)
+			.text((d) => {
+				const info = source.find((x) => x.nickname === d);
+				return `(\$${ Math.round(info.overall / 100000) /10}M)`
+			});
 
 		playersAxis
 			.append("line")
